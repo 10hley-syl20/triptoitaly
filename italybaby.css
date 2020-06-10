@@ -1,0 +1,99 @@
+
+ 
+        body{
+    font-family: 'Source Sans Pro', sans-serif;
+color:black;
+
+
+    }
+ body{
+    padding-top:70px;
+ }
+
+
+h1{font-size:40px;}
+
+
+a,ol {
+color:rgb(247, 76, 2);
+line-height: 30px;
+}
+
+
+
+
+
+
+/*
+ .box {
+    background-color: #D3D3D3;
+}*/
+ .panel-footer{
+    text-align: center;
+    background-color: #A9A9A9;
+    color:white;
+    font-size: 18px;
+
+}
+
+
+img{
+    padding:20px;
+    margin:auto;
+    width:350px;
+    height:300px;
+}
+.colos{
+    margin-top:25px;
+}
+
+
+hr {
+    overflow: visible; /* For IE */
+    height: 30px;
+    border-style: solid;
+    border-color: #D3D3D3;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+}
+hr:before  { /* Not really supposed to work, but does */
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: #D3D3D3;
+    border-width: 0 0 1px 0;
+    border-radius: 20px;
+}
+ 
+  
+ .jumbotron{
+    color: #2c3e50;
+ }
+ .navbar-inverse  {
+    background-color: #2F4F4F
+;
+
+}
+  
+.navbar-inverse .navbar-nav>li>a {
+    color:white;
+}
+.navbar-inverse .navbar-brand {
+    color:white;
+}
+
+.panel-footer{
+    background-color: #2F4F4F;
+
+;
+    
+} 
+
+
+    .navbar-inverse .navbar-nav>li>a {
+    color:white;
+    }
+    .navbar-inverse .navbar-brand {
+    color:white;
